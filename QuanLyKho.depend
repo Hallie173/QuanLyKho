@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1698812394 source:c:\users\g15 5511\desktop\ti\c\quanlykho\main.cpp
+	<iostream>
+	"Supplier.h"
+	"Customer.h"
+	"Object.h"
+
+1698682593 c:\users\g15 5511\desktop\ti\c\quanlykho\unit.h
+	<iostream>
+	"Nhapdulieu.h"
+
+1698812466 source:c:\users\g15 5511\desktop\ti\c\quanlykho\customer.cpp
+	<fstream>
+	<cstring>
+	<iomanip>
+	<vector>
+	"Customer.h"
+
+1698812263 c:\users\g15 5511\desktop\ti\c\quanlykho\customer.h
+	<iostream>
+
+1698812079 source:c:\users\g15 5511\desktop\ti\c\quanlykho\object.cpp
+	<fstream>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	<vector>
+	"Object.h"
+
+1698805152 c:\users\g15 5511\desktop\ti\c\quanlykho\object.h
+	<iostream>
+
+1698805097 source:c:\users\g15 5511\desktop\ti\c\quanlykho\supplier.cpp
+	<fstream>
+	<cstring>
+	<iomanip>
+	"Supplier.h"
+
+1698812264 c:\users\g15 5511\desktop\ti\c\quanlykho\supplier.h
+	<iostream>
+
+1698381730 source:c:\users\g15 5511\desktop\ti\c\quanlykho\input.cpp
+	<fstream>
+	"Input.h"
+
+1698471808 c:\users\g15 5511\desktop\ti\c\quanlykho\input.h
+	<iostream>
+	"Object.h"
+	"Supplier.h"
+
+1698681964 source:c:\users\g15 5511\desktop\ti\c\quanlykho\unit.cpp
+	"Unit.h"
+
+1698471756 source:c:\users\g15 5511\desktop\ti\c\quanlykho\output.cpp
+
+1698706784 c:\users\g15 5511\desktop\ti\c\quanlykho\nhapdulieu.h
+	<iostream>
+
+1698685310 source:c:\users\g15 5511\desktop\ti\c\quanlykho\nhapdulieu.cpp
+	"Nhapdulieu.h"
+	<cstring>
+	<fstream>
+
